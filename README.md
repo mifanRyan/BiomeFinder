@@ -1,5 +1,6 @@
 # BiomeFinder by mifanRyan
 这个插件允许玩家使用 `/biomefinder` 命令查找指定种子和坐标的生物群系类型~
+
 A simple Minecraft plugin designed for searching specific biome.
 
 ## 功能
