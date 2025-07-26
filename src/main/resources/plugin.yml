@@ -1,0 +1,10 @@
+name: BiomeFinder
+version: 1.0
+main: com.example.biomefinder.BiomeFinder
+api-version: 1.21
+commands:
+  biomefinder:
+    description: 查找指定种子和坐标的生物群系 - by mifanRyan
+    usage: /biomefinder <种子> <x> <z>
+    permission: biomefinder.use
+    permission-message: 你没有权限使用此命令

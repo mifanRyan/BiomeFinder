@@ -1,0 +1,8 @@
+# BiomeFinder 插件配置
+messages:
+  usage: "&c用法: /biomefinder <种子> <x> <z>"
+  no-permission: "&c你没有权限使用此命令！"
+  result-header: "&6========== 生物群系信息 =========="
+  seed: "&a种子: &f"
+  coordinates: "&a坐标: &f"
+  biome: "&a生物群系: &b"
